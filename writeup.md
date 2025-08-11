@@ -17,7 +17,7 @@ Within a write-up file (Markdown or PDF):
 |<img width="1604" alt="" src="img\vehicles_1_4.png"> 4 | <img width="1604" alt="" src="img\vehicles_1_5.png"> 5 | <img width="1604" alt="" src="img\vehicles_1_5.png"> 6 |
 |<img width="1604" alt="" src="img\vehicles_1_7.png"> 7 | <img width="1604" alt="" src="img\vehicles_1_8.png"> 8 | |
 
-The above images show vehicles with varying degrees of visibility in the point-cloud. E.g image "3" shows a fully visible following vehicle, "2" shows a fully visible preceeding vehicle, "1" shows a partially visible vehicle which is partially inside lidar blind spot. Images "5" and "7" show different king of vehicles with trailers. Finally figure "8" shows an intersection including pedestrains. In general vehicles look like rectangles with a longer side and rounded corners. Depending on the view (if from the side) wheels are also clearly visible.
+The above images show vehicles with varying degrees of visibility in the point-cloud. E.g image "3" shows a fully visible following vehicle, "2" shows a fully visible preceeding vehicle, "1" shows a partially visible vehicle which is partially inside lidar blind spot. Images "5" and "7" show different kinds of vehicles with trailers. Finally figure "8" shows an intersection including pedestrains. In general vehicles look like rectangles with a longer side and rounded corners. Depending on the view (if from the side) wheels are also clearly visible.
 
 | | |
 |:-------------------------:|:-------------------------:|
